@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTaxi</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="title_activity_customers_map">CustomersMapActivity</string>
+</resources>
